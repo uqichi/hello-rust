@@ -12,3 +12,8 @@
 .idea
 .DS_Store
 .envrc
+
+
+# Added by cargo
+
+/target
